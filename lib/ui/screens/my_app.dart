@@ -55,12 +55,13 @@ class _ConverterState extends State<Converter> {
                     child: Padding(
                       padding: const EdgeInsets.all(20.0),
                       child: TextButton(
+                        key: const Key('switch'),
                         child: Text(_converterText),
                         onPressed: _changeConverter,
                       ),
                     )
                 ),
-                Expanded(child: _converterType == 0 ? BinaryToDecimal() : DecimalToBinary()),
+                Expanded(child: _converterType == 0 ? const BinaryToDecimal() : const DecimalToBinary()),
               ],
             )));
   }

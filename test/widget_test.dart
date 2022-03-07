@@ -57,7 +57,7 @@ void main() {
   });
 
   testWidgets('Switch widgets', (WidgetTester tester) async {
-    await tester.pumpWidget(MyApp());
+    await tester.pumpWidget(Converter());
 
     expect(find.text('0'), findsNWidgets(2));
     expect(find.byKey(Key("1")), findsOneWidget);

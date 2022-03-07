@@ -123,6 +123,7 @@ class _DecimalToBinaryState extends State<DecimalToBinary> {
                 Padding(
                   padding: const EdgeInsets.all(10),
                   child: ElevatedButton(
+                    key: const Key('reset'),
                     onPressed: () => _onPressed(-1),
                     child: const Text("Clear", style: TextStyle(fontSize: 20),),
                     style: ElevatedButton.styleFrom(
@@ -145,6 +146,7 @@ class _DecimalToBinaryState extends State<DecimalToBinary> {
   Widget keyNumber(number) {
     return 
     Padding(
+      key: Key(number.toString()),
       padding:const EdgeInsets.all(10), 
       child: ElevatedButton(
         onPressed: () => _onPressed(number),

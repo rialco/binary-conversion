@@ -83,6 +83,7 @@ class _BinaryToDecimalState extends State<BinaryToDecimal> {
           child: Padding(
             padding: const EdgeInsets.all(20),
             child: ElevatedButton(
+              key: const Key('reset'),
               onPressed: () => _onPressed(2),
               child: const Text("Clear", style: TextStyle(fontSize: 20),),
               style: ElevatedButton.styleFrom(
@@ -101,6 +102,7 @@ class _BinaryToDecimalState extends State<BinaryToDecimal> {
     Padding(
       padding:const EdgeInsets.all(20), 
       child: ElevatedButton(
+        key: Key(number.toString()),
         onPressed: () => _onPressed(number),
         child: Text(number.toString(), style: const TextStyle(fontSize: 40),),
         style: ElevatedButton.styleFrom(
