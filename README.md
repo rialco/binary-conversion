@@ -9,7 +9,7 @@ GIF : https://drive.google.com/file/d/1DYLtSdKznzGzBu9fA_gGJ__NFFjcn9If/view?usp
 
 ![Alt text](tomaPantalla.png?raw=true "Title")   
 
-![Alt text](app_preview?raw=true.gif "Title")
+![Alt text](app_preview.gif?raw=true "Title")
 
 
 
