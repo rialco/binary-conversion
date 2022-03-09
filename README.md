@@ -3,9 +3,13 @@
 
 Código base para la primera aplicación en Flutter, un conversor de binario a decimal
 
+LINK VIDEO: https://drive.google.com/file/d/1UlCQuwrczWtUgz4k1Uo0Qqq4FxCOD1NN/view?usp=sharing 
+
+GIF : https://drive.google.com/file/d/1DYLtSdKznzGzBu9fA_gGJ__NFFjcn9If/view?usp=sharing
+
 ![Alt text](tomaPantalla.png?raw=true "Title")   
 
-Objetivo    
+![Alt text](app_preview?raw=true.gif "Title")
 
-![Alt text](objetivo.gif?raw=true "Title")
+
 
