@@ -7,8 +7,6 @@ LINK VIDEO: https://drive.google.com/file/d/1UlCQuwrczWtUgz4k1Uo0Qqq4FxCOD1NN/vi
 
 GIF : https://drive.google.com/file/d/1DYLtSdKznzGzBu9fA_gGJ__NFFjcn9If/view?usp=sharing
 
-![Alt text](tomaPantalla.png?raw=true "Title")   
-
 ![Alt text](app_preview.gif?raw=true "Title")
 
 
